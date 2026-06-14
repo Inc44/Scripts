@@ -27,6 +27,7 @@ Creators of:
 
 - [Python](https://www.python.org)
 - [aiohttp](https://docs.aiohttp.org)
+- [OpenPyXL](https://openpyxl.readthedocs.io)
 - [tqdm](https://tqdm.github.io)
 - [YouTube API](https://developers.google.com/youtube/iframe_api_reference)
 - [World Bank API](https://documents.worldbank.org/en/publication/documents-reports/api)
