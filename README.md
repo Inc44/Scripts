@@ -21,6 +21,16 @@ Not yet found.
 
 Not yet known.
 
+## 🙏 Thanks
+
+Creators of:
+
+- [Python](https://www.python.org)
+- [aiohttp](https://docs.aiohttp.org)
+- [tqdm](https://tqdm.github.io)
+- [YouTube API](https://developers.google.com/youtube/iframe_api_reference)
+- [World Bank API](https://documents.worldbank.org/en/publication/documents-reports/api)
+
 ## 🤝 Contribution
 
 Contributions, suggestions, and new ideas are heartily welcomed. If you're considering significant modifications, please initiate an issue for discussion before submitting a pull request.
